@@ -1,0 +1,120 @@
+﻿LicensePlate,In,Out,Type,name,age,town,email
+WPM 4567,05:02:00,06:39,HGV,Bridget Kelly,30,Castlereagh,bridget.kelly@example.com
+VPM 4567,05:15:00,06:45,HGV,Eilis Wilson,73,Carrickfergus,eilis.wilson@example.com
+KNL 8901,05:30:00,07:01,HGV,Patrick O'Connor,41,Newry,patrick.oconnor@example.com
+22-M-9012,06:35:00,07:04,HGV,Sinead Murphy,39,Galway,sineadmurphy@gmail.com
+98-G-4567,07:05:00,07:15,HGV,Seán Flynn,42,Wicklow,seanflynn42@gmail.com
+19-KE-6789,07:12:00,07:23,car,Colm O'Donnell,49,Cork,colmodonnell@gmail.com
+LPM 4567,07:15:00,07:30,HGV,Aoife Dunne,37,Bangor,aoife.dunne@example.com
+96-C-6789,07:22:00,07:43,car,Padraig O'Connor,29,Navan,padraigoconnor29@gmail.com
+08-D-3456,07:30:00,08:30,HGV,Conor O'Brien,47,Belfast,conorobrien@gmail.com
+11-D-5678,07:39:00,08:35,car,Sean Doyle,76,Galway,seandoyle@gmail.com
+SGP 5678,07:45:00,08:45,HGV,Ryan McLaughlin,22,Coleraine,ryan.mclaughlin@example.com
+99-CN-8901,07:50:00,08:47,car,Liam Nolan,23,Roscrea,liamnolan23@gmail.com
+02-D-1234,08:09:00,09:00,car,Caoimhe O'Sullivan,54,Galway,caoimheosullivan@gmail.com
+FZI 1234,08:15:00,09:01,HGV,Declan O'Neill,31,Ballyward,declanoneill90@gmail.com
+87-D-0123,08:30:00,09:15,car,Eoin O'Sullivan,26,Clonakilty,eoinosullivan26@gmail.com
+90-G-2345,08:38:00,09:24,HGV,Cillian Lynch,48,Killarney,cillianlynch48@gmail.com
+LZI 1234,08:45:00,09:30,car,Shannon McLaughlin,20,Coleraine,shannon.mclaughlin@example.com
+JAB 0123,08:58:00,09:36,car,Ruairi Maguire,49,Fivemiletown,ruairimaguire71@hotmail.com
+13-O-7890,09:00:00,09:45,HGV,Aisling Brennan,25,Limerick,aislingbrennan@gmail.com
+08-L-9012,09:08:00,09:50,HGV,Eoin Kelly,61,Limerick,eoinkelly@gmail.com
+21-L-1234,09:15:00,10:00,HGV,Cillian Hayes,32,Kilkenny,cillianhayes@gmail.com
+BPM 4567,09:30:00,10:04,car,Ciara Doyle,72,Lisburn,ciaradoyle47@hotmail.com
+GZI 1234,09:31:00,10:15,car,Michaela Crawford,x,Antrim,michaelacrawford68@gmail.com
+SGO 9012,09:45:00,10:26,HGV,Patrick Murphy,34,Belfast,patrick.murphy@example.com
+76-C-7890,09:54:00,10:30,HGV,Caoilfhionn O'Shea,27,Limerick,caoilfhionnoshea@gmail.com
+RGP 5678,10:00:00,10:33,car,Conor McLaughlin,21,Coleraine,conor.mclaughlin@example.com
+AED 2345,10:10:00,10:45,car,Connor Quinn,28,Dungannon,connorquinn95@hotmail.com
+XVT 6789,10:15:00,10:53,car,Aidan McGowan,30,Glenavy,aidan.mcgowan@qub.ac.uk
+AHY 3456,10:22:00,11:00,HGV,Ryan Duffy,53,Newtownabbey,ryanduffy67@gmail.com
+TAM 0123,10:30:00,11:11,car,Caitlin Hughes,47,Craigavon,caitlin.hughes@example.com
+QED 2345,10:36:00,11:15,HGV,Mairead Campbell,35,Newtownabbey,mairead.campbell@example.com
+JNL 8901,10:45:00,11:28,HGV,Liam O'Connor,29,Coleraine,l.oc@qub.ac.uk
+NAB 0123,10:53:00,11:30,car,Aine Kelly,x,Antrim,aine.kelly@example.com
+LNL 8901,11:00:00,11:44,HGV,Fiona Campbell,31,Lisburn,fiona.campbell@example.com
+SGP 5678,11:01:00,11:45,car,Shannon O'Neill,28,Larne,shannon.oneill@example.com
+PGO 9012,11:15:00,11:53,car,Colleen Martin,43,Omagh,colleen.martin@example.com
+ZED 2345,11:26:00,12:00,car,Una Farmer,19,PG1,una@farmer.com
+EGP 5678,11:30:00,12:13,car,Aisling Gallagher,26,Portadown,aislinggallagher95@hotmail.com
+BFC 7890,11:42:00,12:15,HGV,Sean Gallagher,35,Enniskillen,seangallagher90@gmail.com
+QFC 7890,11:45:00,12:27,car,Cathal Brennan,59,Bangor,cathal.brennan@example.com
+DPM 4567,11:56:00,12:30,car,Ethan Martin,37,Dungannon,ethanmartin84@gmail.com
+NFC 7890,12:00:00,12:33,car,Megan Elliott,24,Portadown,megan.elliott@example.com
+WZI 1234,12:04:00,12:45,HGV,Fionnuala McCann,y,Ballyclare,fionnuala.mccann@example.com
+RGO 9012,12:15:00,12:57,HGV,Ashling Hughes,28,Ballymena,ashling.hughes@example.com
+KZI 1234,12:25:00,13:00,car,Siobhan Hughes,66,Craigavon,siobhan.hughes@example.com
+PZI 1234,12:30:00,13:13,car,Sean Wilson,44,Lisburn,sean.wilson@example.com
+TGO 9012,12:34:00,13:15,car,Sean Brown,42,Armagh,sean.brown@example.com
+XNL 8901,12:45:00,13:25,car,Imogen Nixon,52,Donaghadee,imogen.nixon@example.com
+VNL 8901,12:58:00,13:30,car,Brian McKinney,44,Holywood,brian.mckinney@example.com
+JHY 3456,13:00:00,13:41,HGV,Katie Kelly,35,Warrenpoint,katiekelly90@hotmail.com
+LFC 7890,13:08:00,13:45,HGV,Declan Johnston,45,Enniskillen,declan.johnston@example.com
+CED 2345,13:15:00,13:53,HGV,Ciaran Johnston,33,Crumlin,ciaranjohnston88@gmail.com
+SAB 0123,13:26:00,14:00,HGV,Cormac Kelly,39,Antrim,cormac.kelly@ppop.com
+OGO 9012,13:30:00,14:12,car,Brendan Crawford,57,Newtownards,brendan.crawford@example.com
+GAB 0123,13:44:00,14:15,car,Niall Kelly,60,Enniskillen,niallkelly61@hotmail.com
+WYI 1234,13:45:00,14:27,car,Eoin O'Brien,39,Bangor,eoin.obrien@example.com
+VVT 6789,13:58:00,14:30,car,Sarah McFarland,25,Downpatrick,sarah.mcfarland@example.com
+CVT 6789,14:00:00,14:40,car,Daniel McAllister,68,Carrickfergus,danielmcallister53@gmail.com
+BZI 1234,14:08:00,14:45,HGV,Aoife Thompson,59,Newtownards,aoifethompson64@hotmail.com
+XFC 7890,14:15:00,14:56,HGV,Hannah Hamilton,21,Dungiven,hannah.hamilton@example.com
+AGP 5678,14:22:00,15:00,car,Molly Robinson,43,Belfast,mollyrobinson76@gmail.com
+THY 3456,14:30:00,15:05,HGV,Darragh McLean,29,Portadown,darragh.mclean@example.com
+DAB 0123,14:42:00,15:15,HGV,Rachel McKee,w,Banbridge,rachelmckee58@hotmail.com
+JAY 3456,14:59:00,15:30,HGV,Conor Duffy,52,Bangor,conorduffy69@gmail.com
+GGP 5678,15:00:00,15:40,car,Grace McElroy,19,Omagh,gracemcelroy04@gmail.com
+PNL 8901,15:14:00,15:45,car,Aisling Boyle,30,Enniskillen,aisling.boyle@example.com
+MVT 6789,15:15:00,15:58,car,Ryan Thompson,36,Dungannon,ryan.thompson@example.com
+AHY 3456,15:28:00,16:00,HGV,Holly Armstrong,49,Belfast,hollyarmstrong71@hotmail.com
+UFC 7890,15:30:00,16:08,car,Niall Hamilton,57,Antrim,niall.hamilton@example.com
+SGP 5678,15:36:00,16:15,HGV,Connor Campbell,58,Newtownards,connor.campbell@example.com
+LPM 4567,15:45:00,16:25,HGV,Niall Martin,27,Ballymena,niall.martin@example.com
+RPM 4567,15:56:00,16:30,HGV,Katie Thompson,42,Dungannon,katie.thompson@example.com
+CPM 4567,16:00:00,16:40,car,Emma Walsh,44,Ballymena,emmawalsh77@hotmail.com
+XAB 0123,16:05:00,16:45,car,Gareth Boyd,64,Ballynahinch,gareth.boyd@example.com
+WED 2345,16:15:00,16:53,cars,Aidan Crawford,68,Derry,aidan.crawford@example.com
+NED 2345,16:28:00,17:00,,Ciaran Doyle,22,Holywood,ciaran.doyle@example.com
+PGO 9012,16:30:00,17:10,HGV,Seamus Duffy,75,Craigavon,seamus.duffy@example.com
+SGP 5678,16:35:00,17:15,car,Maeve Gallagher,67,Lisburn,maeve.gallagher@example.com
+JLY 3456,16:45:00,17:27,car,Jamie Gallagher,38,Dungannon,jamiegallagher83@gmail.com
+TGO 9012,16:54:00,17:30,car,Ciara Wilson,31,Ballymoney,ciara.wilson@example.com
+BVT 6789,17:00:00,17:40,,Eoin Martin,s,Carrickfergus,eoinmartin94@gmail.com
+KNL 8901,17:09:00,17:45,HGV,Eileen Gallagher,23,Armagh,eileen.gallagher@example.com
+WVT 6789,17:15:00,17:55,HGV,Charlie Smyth,48,Magherafelt,charlie.smyth@example.com
+11-MN-3456,17:20:00,18:00,caravan,Fionnuala Murphy,28,Belfast,fionnualamurphy@gmail.com
+24-W-4567,17:30:00,18:14,HGV, ,19,Belfast,ainedoyle@gmail.com
+99-MH-8901,17:42:00,18:15,HGV,Jiimy Riddler,65,Glean,jim@riddler.ie
+KAB 0123,17:45:00,18:26,car,Mary Murphy,54,Londonderry,mary.murphy@example.com
+VPM 4567,17:51:00,18:30,,Liam Reid,54,Ballymena,liam.reid@example.com
+JNL 8901,18:00:00,18:45,car,John Smith,32,Belfast,john.smith@example.com
+11-D-5678,18:06:00,18:56,HGV,Siobhan Lynch,51,Cork,siobhanlynch@gmail.com
+22-M-9012,18:15:00,19:00,car,Eoghan Kelly,73,Cork,eoghankelly@gmail.com
+08-D-3456,18:22:00,19:03,HGV,Saoirse Ryan,29,Kilkenny,saoirseryan@gmail.com
+76-C-7890,18:30:00,19:15,Car,Roisin Brennan,59,Dublin,roisinbrennan@gmail.com
+90-G-2345,18:36:00,19:22,,Saoirse Burke,20,Stillorgan,saoirseburke20@hotmail.com
+96-C-6789,18:45:00,19:30,car,Eabha Murphy,52,Ballina,eabhamurphy52@hotmail.com
+87-D-0123,18:59:00,19:44,car,Aoife Ryan,35,Ballyhaunis,aoiferyan35@hotmail.com
+98-G-4567,19:00:00,19:45,HGV,Ciara McCarthy,62,Donabate,ciaramccarthy62@hotmail.com
+99-CN-8901,19:06:00,19:49,HGV,Ro Moriarty,76,Tralee,roisinmoriarty76@hotmail.com
+KNL 8901,19:15:00,20:00,HGV,Michael Wilson,29,Downpatrick,michael.wilson@example.com
+FZI 1234,19:22:00,20:06,car,Sinead Duffy,46,Belfast,sineadduffy75@hotmail.com
+SGP 5678,19:30:00,20:15,car,Adam Johnston,20,Enniskillen,adam.johnston@example.com
+SGO 9012,19:44:00,20:25,BMW,Laura Thompson,49,Londonderry,laura.thompson@example.com
+JLY 3456,19:45:00,20:30,,Niamh Murphy,41,Limavady,niamhmurphy80@hotmail.com
+UFC 7890,19:58:00,20:41,HGV,Aoife Reid,23,Newcastle,aoife.reid@example.com
+WVT 6789,20:08:00,20:58,,Daisy Quinn,37,Comber,daisy.quinn@example.com
+JAB 0123,20:15:00,21:00,car,Lorna Armstrong,27,Newcastle,lornaarmstrong94@gmail.com
+TPM 4567,20:30:00,21:13,,Fiona Scott,60,Dungannon,fiona.scott@example.com
+LNL 8901,20:34:00,21:15,HGV,Connor Reid,48,Newtownabbey,connor.reid@example.com
+02-D-1234,20:45:00,21:26,car,Darragh Byrne,23,Dublin,darraghbyrne@gmail.com
+05-G-5678,20:52:00,21:30,HGV,Aoife Murphy,35,Cork,aoifemurphy@gmail.com
+08-L-9012,21:00:00,21:42,car,Niamh O'Connor,42,Dublin,niamhoconnor@gmail.com
+11-MN-3456,21:02:00,21:45,HGV,Padraig O'Shea,43,Kilkenny,padraigoshea@gmail.com
+13-O-7890,21:15:00,21:56,car,Liam Ryan,65,Dublin,liamryan@gmail.com
+16-T-2345,21:30:00,22:00,HGV,Ciara Byrne,37,Galway,ciarabyrne@gmail.com
+19-KE-6789,21:33:00,22:00,HGV,Aoibhinn O'Brien,21,Belfast,aoibhinobrien@gmail.com
+22-L-0123,21:45:00,22:00,car,Dara O'Neill,56,Dublin,daraoneill@gmail.com
+24-W-4567,21:46:00,22:01,car,Tadhg Lynch,41,Kilkenny,tadhglynch@gmail.com
+99-MH-8901,21:54:00,22:05,car,Matthew Collins,21,Louth,matthew.collins@qub.ac.uk
+21-L-1234,22:01:00,22:14,HGV,Maeve Sullivan,44,Limerick,maevesullivan@gmail.com
